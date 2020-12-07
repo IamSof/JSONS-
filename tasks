@@ -1,6 +1,7 @@
 [
 {
 "taskId": 1,
+"taskName": "proeqtis sheqmna"
 "empId": 1,
 "empName": "sofo",
 "statusId": 1,
@@ -9,6 +10,7 @@
 },
 {
 "taskId": 2,
+"taskName": "proeqtis gatestva"
 "empId": 3,
 "empName": "nino",
 "statusId": 2,
