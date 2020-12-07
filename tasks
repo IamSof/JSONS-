@@ -5,7 +5,7 @@ empId: 1,
 empName: "sofo",
 statusId: 1,
 statusName: "created",
-taskDate: "08/12/2020"
+taskDate: "08"
 },
 {
 taskId: 2,
@@ -13,6 +13,6 @@ empId: 3,
 empName: "nino",
 statusId: 2,
 statusName: "In progress",
-taskDate: "08/12/2020"
+taskDate: "08"
 }
 ]
