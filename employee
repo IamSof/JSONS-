@@ -1,0 +1,27 @@
+  
+[
+  {
+    "empId": 1,
+    "empName": "Nino"
+  },
+ {
+    "empId": 2,
+    "empName": "Giorgi"
+  },
+ {
+    "empId": 3,
+    "empName": "Nika"
+  },
+   {
+    "empId": 4,
+    "empName": "Ani"
+  },
+   {
+    "empId": 5,
+    "empName": "Dato"
+  },
+   {
+    "empId": 6,
+    "empName": "Tamo"
+  }
+  ]
