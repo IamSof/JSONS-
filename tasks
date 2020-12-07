@@ -2,6 +2,8 @@
 {
 "taskId": 1,
 "taskName": "proeqtis sheqmna",
+"owner": "JS", 
+"project": "adads sda", 
 "empId": 1,
 "empName": "sofo",
 "statusId": 1,
@@ -11,6 +13,8 @@
 {
 "taskId": 2,
 "taskName": "proeqtis gatestva",
+"owner": "Angular",
+"project": "adads sda", 
 "empId": 3,
 "empName": "nino",
 "statusId": 2,
